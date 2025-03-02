@@ -333,3 +333,6 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [19:18:52 | 02-03-2025] ✅ Node started for 0x15A609893dAB7473904EDE9E95873B877158dADc
+[03:10:53 | 03-03-2025] Wallet Address: 0x15A609893dAB7473904EDE9E95873B877158dADc
+[03:10:53 | 03-03-2025] Node Points: 380722
+[03:10:53 | 03-03-2025] Last Claim Point: 02/03/2025 12:21:16
